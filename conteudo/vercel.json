@@ -1,0 +1,15 @@
+{
+ "cleanUrls": true,
+ "trailingSlash": true,
+ "headers": [
+  {
+   "source": "/(upsell|downsell|obrigado)/(.*)",
+   "headers": [
+    {
+     "key": "X-Robots-Tag",
+     "value": "noindex"
+    }
+   ]
+  }
+ ]
+}

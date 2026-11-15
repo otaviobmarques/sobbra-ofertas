@@ -1,0 +1,25 @@
+/* Link do checkout de cada oferta (pay.cakto.com.br/...). Usado só se o código da Cakto não estiver colado na página. */
+window.SOBBRA_CHECKOUT = {
+ "01-planilha-upsell": "https://pay.cakto.com.br/4gmaapq",
+ "01-planilha-downsell": "https://pay.cakto.com.br/puu7ddk",
+ "02-curriculo-upsell": "https://pay.cakto.com.br/39gg9iz",
+ "02-curriculo-downsell": "https://pay.cakto.com.br/5mmhtnj",
+ "03-planner2027-upsell": "https://pay.cakto.com.br/vms4ezn",
+ "03-planner2027-downsell": "https://pay.cakto.com.br/3a4acto",
+ "04-casamento-upsell": "https://pay.cakto.com.br/34837fa",
+ "04-casamento-downsell": "https://pay.cakto.com.br/hz4rmr6",
+ "05-bebe-upsell": "https://pay.cakto.com.br/x3tbswh",
+ "05-bebe-downsell": "https://pay.cakto.com.br/ivudh2x",
+ "06-conteudo-upsell": "https://pay.cakto.com.br/5va22ri",
+ "06-conteudo-downsell": "https://pay.cakto.com.br/oiqifr3",
+ "07-precificacao-upsell": "https://pay.cakto.com.br/386m7o8",
+ "07-precificacao-downsell": "https://pay.cakto.com.br/umqw4rg",
+ "08-cardapio-upsell": "https://pay.cakto.com.br/3bumnbp",
+ "08-cardapio-downsell": "https://pay.cakto.com.br/64443de",
+ "09-carro-upsell": "https://pay.cakto.com.br/bepy75i",
+ "09-carro-downsell": "https://pay.cakto.com.br/zm3js9y",
+ "10-equipe-upsell": "https://pay.cakto.com.br/59vejkx",
+ "10-equipe-downsell": "https://pay.cakto.com.br/392mu6i",
+ "11-prompts-upsell": "https://pay.cakto.com.br/xsgrucq",
+ "11-prompts-downsell": "https://pay.cakto.com.br/33u6enp"
+};
