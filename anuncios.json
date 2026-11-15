@@ -1,23 +1,69 @@
 {
- "conta": "1622622172872219", "pixel": "1675055730638026",
- "planilha": {"adset": "120250905048090453", "link": "https://planilha.sobbra.com.br/",
-  "headline": "Planilha pronta · R$ 27", "cta": "SHOP_NOW",
+ "conta": "1622622172872219",
+ "pixel": "1675055730638026",
+ "planilha": {
+  "adset": "120250905048090453",
+  "link": "https://planilha.sobbra.com.br/",
+  "headline": "Planilha pronta · R$ 27",
+  "cta": "SHOP_NOW",
   "ads": [
-   {"img": "planilha-1-para-onde-vai.jpg", "texto": "Você trabalha o mês inteiro e no fim não sabe para onde foi o dinheiro?\n\nA Planilha de Controle Financeiro da Sobbra já vem pronta: você anota o que entrou e o que saiu, e ela monta o painel com gráficos, avisa quando um gasto passa do limite e mostra quanto sobrou.\n\n✔ Excel e Google Planilhas\n✔ Versão de exemplo preenchida\n✔ Guia passo a passo\n\nR$ 27, pagamento único, acesso na hora."},
-   {"img": "planilha-2-salario-sumiu.jpg", "texto": "O salário cai no dia 5. No dia 20, já sumiu. 😬\n\nNão é falta de dinheiro, é falta de enxergar para onde ele vai. Com a planilha da Sobbra você lança cada gasto em 2 minutos por dia e ela mostra, em gráfico, o que está pesando no seu mês.\n\nSem fórmula. Sem curso. R$ 27."},
-   {"img": "planilha-3-sem-formula.jpg", "texto": "Já tentou fazer planilha e desistiu na primeira semana?\n\nNessa você só preenche as células amarelas e escolhe a categoria na setinha. Gráficos, orçamento e alertas se montam sozinhos.\n\nFunciona no celular pelo Google Planilhas. R$ 27, garantia de 7 dias."}
-  ]},
- "planner": {"adset": "120250905048500453", "link": "https://planner.sobbra.com.br/",
-  "headline": "Planner de Vida 2027 · R$ 27", "cta": "SHOP_NOW",
+   {
+    "img": "planilha-1-para-onde-vai.jpg",
+    "texto": "Você trabalha o mês inteiro e no fim não sabe para onde foi o dinheiro?\n\nA Planilha de Controle Financeiro da Sobbra já vem pronta: você anota o que entrou e o que saiu, e ela monta o painel com gráficos, avisa quando um gasto passa do limite e mostra quanto sobrou.\n\n✔ Excel e Google Planilhas\n✔ Versão de exemplo preenchida\n✔ Guia passo a passo\n\nR$ 27, pagamento único, acesso na hora.",
+    "image_hash": "bcb5ecc94572d5afc4c5a7cbf8ed42ac"
+   },
+   {
+    "img": "planilha-2-salario-sumiu.jpg",
+    "texto": "O salário cai no dia 5. No dia 20, já sumiu. 😬\n\nNão é falta de dinheiro, é falta de enxergar para onde ele vai. Com a planilha da Sobbra você lança cada gasto em 2 minutos por dia e ela mostra, em gráfico, o que está pesando no seu mês.\n\nSem fórmula. Sem curso. R$ 27.",
+    "image_hash": "a7518ee530563e9759a45e999331d59b"
+   },
+   {
+    "img": "planilha-3-sem-formula.jpg",
+    "texto": "Já tentou fazer planilha e desistiu na primeira semana?\n\nNessa você só preenche as células amarelas e escolhe a categoria na setinha. Gráficos, orçamento e alertas se montam sozinhos.\n\nFunciona no celular pelo Google Planilhas. R$ 27, garantia de 7 dias.",
+    "image_hash": "2f9df80cf6354d6dffa60fad2efa3ff8"
+   }
+  ]
+ },
+ "planner": {
+  "adset": "120250905048500453",
+  "link": "https://planner.sobbra.com.br/",
+  "headline": "Planner de Vida 2027 · R$ 27",
+  "cta": "SHOP_NOW",
   "ads": [
-   {"img": "planner-1-ano-diferente.jpg", "texto": "2027 vai ser diferente. Comece planejado. ✨\n\nO Planner de Vida 2027 junta metas, rotina e dinheiro num lugar só: calendário com feriados, metas do ano, 12 planejamentos mensais e 53 semanas.\n\nImprima em A4 ou A5, ou use no tablet com abas clicáveis.\n\nR$ 27, acesso na hora."},
-   {"img": "planner-2-o-que-vem.jpg", "texto": "Tudo o que você precisa para o ano, num planner só:\n\n✔ Calendário 2027 com feriados\n✔ Metas e Roda da Vida\n✔ 12 meses + 53 semanas\n✔ Hábitos e orçamento do mês\n✔ A4, A5 e tablet (GoodNotes, Notability, Xodo)\n\nR$ 27, pagamento único."}
-  ]},
- "conteudo": {"adset": "120250905048830453", "link": "https://conteudo.sobbra.com.br/",
-  "headline": "Calendário de Conteúdo 2027 · R$ 27", "cta": "SHOP_NOW",
+   {
+    "img": "planner-1-ano-diferente.jpg",
+    "texto": "2027 vai ser diferente. Comece planejado. ✨\n\nO Planner de Vida 2027 junta metas, rotina e dinheiro num lugar só: calendário com feriados, metas do ano, 12 planejamentos mensais e 53 semanas.\n\nImprima em A4 ou A5, ou use no tablet com abas clicáveis.\n\nR$ 27, acesso na hora.",
+    "image_hash": "7edf34034fdb38326d5ff2cbe8ee86ab"
+   },
+   {
+    "img": "planner-2-o-que-vem.jpg",
+    "texto": "Tudo o que você precisa para o ano, num planner só:\n\n✔ Calendário 2027 com feriados\n✔ Metas e Roda da Vida\n✔ 12 meses + 53 semanas\n✔ Hábitos e orçamento do mês\n✔ A4, A5 e tablet (GoodNotes, Notability, Xodo)\n\nR$ 27, pagamento único.",
+    "image_hash": "0fd53a1c46c94a0a6557571ae4f5c4e5"
+   }
+  ]
+ },
+ "conteudo": {
+  "adset": "120250905048830453",
+  "link": "https://conteudo.sobbra.com.br/",
+  "headline": "Calendário de Conteúdo 2027 · R$ 27",
+  "cta": "SHOP_NOW",
   "ads": [
-   {"img": "conteudo-1-ano-todo.jpg", "texto": "Conteúdo o ano todo, sem travar.\n\nO Calendário de Conteúdo 2027 traz todas as datas comemorativas e comerciais do ano, com uma ideia de post para cada uma, mais um banco de ideias e ganchos para Reels.\n\nPara pequenos negócios e criadores. R$ 27, acesso na hora."},
-   {"img": "conteudo-2-o-que-posto.jpg", "texto": "\"O que eu posto hoje?\" 🤯\n\nSe essa pergunta trava o seu Instagram, o Calendário de Conteúdo 2027 resolve: cada data do ano já vem com a ideia de post pronta.\n\nImprimível ou no tablet. R$ 27, garantia de 7 dias."}
-  ]},
- "obs": "Criativo 'A Black Friday é dia 26/11' (Calendário) ficou de fora: em novembro de 2026 a pessoa entende que é deste ano, mas a Black Friday de 2026 é 27/11."
+   {
+    "img": "conteudo-1-ano-todo.jpg",
+    "texto": "Conteúdo o ano todo, sem travar.\n\nO Calendário de Conteúdo 2027 traz todas as datas comemorativas e comerciais do ano, com uma ideia de post para cada uma, mais um banco de ideias e ganchos para Reels.\n\nPara pequenos negócios e criadores. R$ 27, acesso na hora.",
+    "image_hash": "3b43fb1d40eb8c77924447990de0f9db"
+   },
+   {
+    "img": "conteudo-2-o-que-posto.jpg",
+    "texto": "\"O que eu posto hoje?\" 🤯\n\nSe essa pergunta trava o seu Instagram, o Calendário de Conteúdo 2027 resolve: cada data do ano já vem com a ideia de post pronta.\n\nImprimível ou no tablet. R$ 27, garantia de 7 dias.",
+    "image_hash": "e57417ca9ef6cc62c82fa89182886cfa"
+   }
+  ]
+ },
+ "obs": "Criativo 'A Black Friday é dia 26/11' (Calendário) ficou de fora: em novembro de 2026 a pessoa entende que é deste ano, mas a Black Friday de 2026 é 27/11.",
+ "campanhas": {
+  "planilha": "120250905042400453",
+  "planner": "120250905042490453",
+  "conteudo": "120250905042580453"
+ }
 }
